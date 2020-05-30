@@ -3,5 +3,5 @@
 bin/
 obj/
 *.iml
-
 *.class
+venv/
