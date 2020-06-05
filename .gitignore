@@ -5,3 +5,5 @@ obj/
 *.iml
 *.class
 venv/
+.vs/
+Debug/
